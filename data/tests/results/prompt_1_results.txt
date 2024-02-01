@@ -1,0 +1,49 @@
+
+DOCUMENT 0:
+
+{'Teniente Gonzalo Durán Paredes': [('Responsible of the detention camp', 'Puchuncaví, Provincia de Valparaíso')],
+'Maximiliano Marbolz Venegas': [('Detainee suffering from health issues', 'Rheumatism in the region of the coccyx bone')],
+'Leopoldo Felipe Zuljevic Lovrin': [('Detainee suffering from health issues', 'Rheumatism in the region of the upper right arm and back')],
+'Luis Vega Contreras': [('Detainee needing dental care', 'Missing the first molar on the upper left. Urgent need for dental care')],
+'Sub-official Luis Pérez Torres': [('Medical officer attending to detainees', 'Conversations with ICRC delegate, provides medical attention approximately every fifteen days')]}
+
+DOCUMENT 1:
+
+{'Manuel Contreras Sepulveda': [('Coronel', 'Director of National Intelligence')],
+'Acosta Georges Julio Arturo': [('Arrested','Date: 25-SET-1973 by Carabineros'), 
+                                ('Released', 'Date: 13-Feb-1974')], 
+'Alvarado Cardenas Augusto Rene': [('Arrested', 'Date: Unknown for political activities'), 
+                                   ('Place detained', 'City: Rancagua')], 
+'Alvarez Gaete Rene Vicente': [('Arrested', 'Date: 26-Oct-1973 for infringing Law 17.798 and Internal Security State Law'), 
+                                 ('Convicted', 'Sentence: 13 years of imprisonment at Santiago Penitentiary')], 
+'Alvarez Martinez Rene Albino': [('Arrested', 'Date: 10-May-1975 for infringing Bando No 211 from 04-NOV-74'), 
+                                 ('In custody', 'Place: Military Prosecutor’s office in Victoria')], 
+'Alvarez Bustos Rene Santiago': [('Arrested', 'Date: 12-Set-1973 for infringing the Curfew'), 
+                                 ('Released', 'Date: 23-Set-1973')],
+'Ampuero Navarro Arturo': [('Arrested', 'Date: 11-Set-1973 for illegal possession of arms'), 
+                           ('Released', 'Date: 14-Jun-1974')],
+'Astaburruaga Del Solar Jose Pedro': [('Transferred', 'Date: 02-OCT-1973 from National Stadium to Public Jail')],
+'Benavente Fernandez Francisco Tomas': [('Arrested', 'Date: 17-Set-1973'), 
+                                        ('Place of detainment', 'Isla Quiriquina'), 
+                                        ('Released', 'Date: 05-Oct-1973')],
+'Bosic Jose': [('Political affiliation', 'Militant of Ex Socialist Party')],
+'Burgos Lopez Manuel Jesus': [('Political activity', 'Participated in rebellions, marches and gatherings of the ex Popular Unit')],
+'Burgos Abello Manuel': [] }
+
+DOCUMENT 2:
+
+{'Jorge GONZALEZ Morales': [('Detention and Health Issue', 'He was held in the prison infirmary due to a chronic condition (Otitis crónica colesteatamatos a).')],
+ 'Heraclio UGARTE Becerra': [('Detention and Health Issue', 'He was held in the prison infirmary due to a cardiac insufficiency.')],
+ 'Fernando SILVA Mandiola': [('Detention and Health Issue', 'He was held in the prison infirmary due to a character incompatibility.')],
+'Alberto BACHELET Martinez': [('Detention and Death', 'He was detained and received medical attention by Dr. Yañez. He died of a myocardial infarction on March 12, 1974 at 09:50.')]}
+
+DOCUMENT 3:
+
+The provided document does not provide information about a person involved in human rights violation events or evidence that could lead to finding missing bodies.
+
+DOCUMENT 4:
+
+{'Gregorio BRAVO Ponce de Leon': [('Position', 'Part of the Welfare Committee formed at the detention center'), ('Activity', 'His work involves improving the detention conditions, coordinating improvements, ensuring hygiene conditions and managing a small fund for urgent improvements')],
+ 'Carlos RIOS Fuentes': [('Position', 'Part of the Welfare Committee formed at the detention center'), ('Activity', 'His work involves improving the detention conditions, coordinating improvements, ensuring hygiene conditions and managing a small fund for urgent improvements')], 
+ 'German CALLEJAS Guerrero': [('Position', 'Part of the Welfare Committee formed at the detention center'), ('Activity', 'His work involves improving the detention conditions, coordinating improvements, ensuring hygiene conditions and managing a small fund for urgent improvements')], 
+ 'Unnamed Detainees':[( 'Transferred from','Transferred from Tejas Verdes Camp'), ('Treatment', 'Complained about mistreatment during interrogations at Tejas Verdes. Bodily harm identified as abdominal and thoracic bruises, ripped off nails, broken teeth, and retinal detachment')]}

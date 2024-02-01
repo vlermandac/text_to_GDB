@@ -1,0 +1,49 @@
+
+DOCUMENT 0:
+
+{'Teniente Gonzalo Durán Paredes': [("Position","Responsible for Puchuncavi 'Melinka' Camp"),("Ordered by","Commander Soto-Aguilar")],
+ 'Sub-Oficial Luis Pérez Torres': [("Occupation","Medic at the Puchuncavi 'Melinka' Camp"),("Hours of Duty","Rotational.")],
+ 'Luis Vega Contreras': [("Health Conditions","Needs dental treatment")],
+ 'Maximiliano Marbolz Venegas': [("Health Conditions","Suffers from rheumatism in the coccyx region")],
+ 'Leopoldo Felipe Zuljevic Lovrin': [("Health Condition","Suffers from rheumatism in right upper arm and back")]}
+
+DOCUMENT 1:
+
+{'ACOSTA GEORGES JULIO ARTURO': [('Arrested', '25-SET-1973'), ('Released','13-FEB-1974'), ('Travel','15-MAY-1975 to Mendoza'), ('Position','Secretary of Press for Hortencia Bussi de Allende'), ('Allegiance', 'Left-Wing sympathiser'), ('Involvement','Illegal Arms Importation')], 
+
+'ALVAREZ GAETE RENE VICENTE': [('Arrested', '26-OCT-1973'), ('Convicted', 'Ley 17.798 and Ley of Internal State Security, sentenced to 13 years')],
+
+'ALVARADO CARDENAS AUGUSTO RENE': [('Party Affiliation', 'Socialist Party'), ('Arrested', 'Unkown Date in Rancagua for political activities')],
+
+'ALVAREZ MARTINEZ RENE ALBINO': [('Civil ID', 'No 5.809.709'), ('Birthdate', '27-APR-1948')], 
+
+'ALVAREZ BUSTOS RENE SANTIAGO': [('Arrested', '12-SEP-1973 for breaking curfew'), ('Released','23-SEP-1973')],
+
+'AMPUERO NAVARRO ARTURO': [('Arrested','11-SEP-1973 for illegal weapon possession'), ('Released','14-JUN-1974')],
+
+'ASTABURRUAGA DEL SOLAR JOSE PEDRO': [('Party Affiliation', 'Socialist Party'), ('Position', '1963 San Miguel Council Candidate, 1972 Head of E.C.A. of San Bernardo'), ('Arrested', '02-OCT-1973 at National Stadium')],
+
+'BENAVENTE FERNANDEZ FRANCISCO TOMAS': [('Arrested', '17-SEP-1973 on Isla Quiriquina'), ('Released','05-OCT-1973')],
+
+'BOSIC JOSE': [('Party Affiliation', 'Socialist Party')],
+
+'BURGOS LOPEZ MANUEL JESUS': [('Party Affiliation', 'Popular Unity supporter')],
+
+'BURGOS ABELLO MANUEL' : [('Civil ID', 'No 2.122.953')]}
+
+DOCUMENT 2:
+
+{'Jorge GONZALEZ Morales': [('Health condition','chronic otitis'), ('Incarceration', 'Incarcerated with insuficient medical attention')],
+ 'Heraclio UGARTE Becerra': [('Health condition', 'Heart failure'), ('Incarceration', 'Incarcerated with insuficient medical attention')],
+ 'Fernando SILVA Mandiola': [('Health condition', 'Character incompatibility'), ('Incarceration', 'Incarcerated with insuficient medical attention')],
+ 'Alberto BACHELET Martinez': [('Health condition', 'Suffered heart attack and died on March 12, 1974 at 09.50'), ('Incarceration', 'Kept in custody under unhealthy conditions')]}
+
+DOCUMENT 3:
+
+The document provided does not contain specific information about people involved in human rights violations during the Military dictatorship of Chile. It is a correspondence from the Ministry of Foreign Affairs dated December 3rd, 1976, discussing a project resolution concerning human rights in Chile sponsored by Cuba, Netherlands, and other countries that were approved by the Third Commission of the United Nations General Assembly. Without more specific details on individuals and their actions, no further information can be extracted to aid in finding missing bodies from the period of the Chilean dictatorship. More detailed documents, such as detailed military records, eyewitness accounts, or explicit government reports, would likely be necessary to provide the information needed for such a task.
+
+DOCUMENT 4:
+
+{'Gregorio Bravo Ponce de Leon': [('Role', 'Member of the Welfare Committee in charge of improving detention conditions'), ('Situation', 'Detained and supervised by authorities')],
+ 'Carlos Rios Fuentes': [('Role', 'Member of the Welfare Committee in charge of improving detention conditions'), ('Situation', 'Detained and supervised by authorities')],
+ 'German Callejas Guerrero': [('Role', 'Member of the Welfare Committee in charge of improving detention conditions'), ('Situation', 'Detained and supervised by authorities')]}

@@ -1,0 +1,41 @@
+
+DOCUMENT 0:
+
+{'Eddi Leemann': [('Role', 'Delegate of the ICRC'), ('Visited Puchuncavi camp', '3rd of July, 1974')], 
+ 'Benno Glauser': [('Role', 'Delegate of the ICRC'), ('Visited Puchuncavi camp', '3rd of July, 1974')], 
+ 'Dietegen Allgawer': [('Role', 'Medical delegate'), ('Visited Puchuncavi camp', '3rd of July, 1974')], 
+ 'Gonzalo Duran Paredes': [('Role', 'Lieutenant in charge of Puchuncavi camp'), ('Works under', 'Commander Soto-Aguilar')], 
+ 'Luis Perez Torres': [('Role', 'Sub-official and healthcare practitioner at Puchuncavi camp'), ('Health inspections', 'Every 15 days')],
+ 'Luis Vega Contreras': [('Health condition', 'Missing left maxilla, urgently requires dental work')],
+ 'Maximiliano Marbolz Venegas': [('Health condition', 'Suffers from rheumatism around the coccyx bone')],
+ 'Leopoldo Felipe Zuljevic Lovrin': [('Health condition', 'Suffers from rheumatism on right shoulder and back')] }
+
+DOCUMENT 1:
+
+{'Julio Arturo Acosta Georges': [('Arrest Date', '25-Sep-1973'), ('Release Date', '13-Feb-1974'), ('Departure Info', '15-May-1975: Part of passenger list of "CATA" with destination to Mendoza.'), ('Occupation & Political Affiliation', 'Journalist, Left-wing sympathizer')],
+ 'Augusto Rene Alvarado Cardenas': [('Arrest Date', '26-Oct-1973: Detained for political activities (Socialist Party Leader).'), ('Detention Info', 'Detained in the city of Rancagua.'), ('Personal Details', 'Civil No 5.809.709 from Santiago, born on 27-Apr-1948 in Puerto Natales'), ('Political Affiliation', 'Ex Socialist Party Member')],
+ 'Rene Vicente Alvarez Gaete': [('Arrest Date', '26-Oct-1973: Detained for violation of Law 17.798 and Internal State Security Law. Sentenced to 13 years of prison in Santiago Penitentiary.'), ('Personal Details', 'Civil No 5.392.505 from Santiago, born on 04-Jun-1950, Student at University of Antofagasta, Address: Gral.Darnell #1648, Ñuñoa'), ('Political Affiliation', 'Ex Socialist Party Member')],
+ 'Rene Albino Alvarez Martinez': [('Arrest Date', '10-May-1975: Detained for violating Command No 211 of 04-Nov-74. Made available to the Military Prosecutor of Victoria.'), ('Offense Info', 'Transiting through non-designated mountain passages')], 
+ 'Rene Santiago Alvarez Bustos': [('Arrest & Release Info', 'Arrested on 12-Sep-1973 for violating Curfew, Released on 23-Sep-1973.'), ('Personal Details', 'Civil No 123.348 from Puerto Montt, Married, born on 22-Jun-1953, Student at INACAP, Address: Vicuña Rosa # 5290, Quinta Normal')],
+ 'Arturo Ampuero Navarro': [('Arrest & Release Info', 'Arrested on 11-Sep-1973 for illegal possession of arms, Released unconditionally on 14-Jun-1974.'), ('Personal Details', 'Civil No 41.341 from Punta Arenas, born on 16-Oct-1915, Married, Address: Nogueira # 1575, Journalist'), ('Political Affiliation', 'Ex Communist Party Member')],
+ 'Jose Pedro Astaburuaga Del Solar': [('Detention Info', 'Moved to Public Jail from National Stadium on 02-Oct-1973 for resisting military forces'), ('Political Activities', '1963: Candidate for Councilor for the Municipality of San Miguel for the Socialist Party, 1972: Chief of E.C.A. of San Bernardo, 1974: Appears in list of persons who were Marxist candidates in the councilor elections of Chile in 1963')],
+ 'Francisco Tomas Benavente Fernandez': [('Arrest & Release Info','Arrested on 17-Sep-1973 and detained at Isla Quiriquina - released on 05-Oct-1973.'), ('Personal Details', 'Civil No 999 from Chillán, born on 02-Mar-1944, Married to Lucia Vielma Quintana (Journalist), Address: Barros Arana # 415, Dept 13, Concepción, Journalist, Ex-Public Relations of ENAP'), ('Political Affiliation', 'Left-wing sympathizer')],
+ 'Jose Bosic': [('Occupation & Political Affiliation', 'Journalist, Socialist Party Member')],
+ 'Manuel Jesus Burgos Lopez': [('Personal Details', 'Civil No 5.817.046 from Santiago, born on 16-Apr-1950, Address: Avda. Jorge Hirmas # 3151, employee of S.N.S.'), ('Political Activities', 'Before 11-Sep-73, participated in revolts, marches and gatherings of the ex Popular Unity, and urged the rest of the staff of the J.J. Aguirre Hospital to hold meetings and abandon their work.'), ('Political Affiliation', 'Ex Popular Unity, Extremist')]}
+
+DOCUMENT 2:
+
+{'Jorge GONZALEZ Morales': [('Medical condition', 'otitis cronica colesteatamatos a'), ('Location', 'en la enfermeria')], 
+ 'Heraclio UGARTE Becerra': [('Medical condition', 'insuficiencia cardiaca'), ('Location', 'en la enfermeria')], 
+ 'Fernando SILVA Mandiola': [('Medical condition', 'incompatibilidad caracterial'), ('Location', 'en la enfermeria')],
+ 'Alberto BACHELET Martinez': [('Cause of death', 'infarto del miocardio'), ('Date of death', '12 de marzo de 1974'), ('Time of death', '09,50'), ('Medical Assistance', 'Dr. Yafies'),('Location', 'galería 2')]}
+
+DOCUMENT 3:
+
+The provided document doesn't provide any specific information about individuals or the details of any human rights violations during the Military dictatorship of Chile. The document seems to be a notice from the Ministry of Foreign Relations about a resolution regarding human rights in Chile that was proposed by some states, including Cuba and Holland, and approved on November 24th by the Third Commission of the United Nations General Assembly. The resolution is to be voted on in the coming days. The document doesn't provide any further information relevant to the task.
+
+DOCUMENT 4:
+
+{'Gregorio BRAVO Ponce de Leon': [('Position', 'Member of the Committee of Welfare in the prison'), ('Activity', 'Coordinating improvements, ensuring hygienic conditions, managing a small fund for urgent improvements, controlling contributions from the Red Cross')], 
+'Carlos RIOS Fuentes': [('Position', 'Member of the Committee of Welfare in the prison'), ('Activity', 'Coordinating improvements, ensuring hygienic conditions, managing a small fund for urgent improvements, controlling contributions from the Red Cross')], 
+'German CALLEJAS Guerrero': [('Position', 'Member of the Committee of Welfare in the prison'), ('Activity', 'Coordinating improvements, ensuring hygienic conditions, managing a small fund for urgent improvements, controlling contributions from the Red Cross')]}

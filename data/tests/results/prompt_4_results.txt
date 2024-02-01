@@ -1,0 +1,68 @@
+
+DOCUMENT 0:
+
+{'Gonzalo Durán Paredes': [('position', 'Responsible for Puchuncaví detention camp'), ('superior', 'Commander Soto-Aguilar')], 
+'Luis Perez Torres': [('position', 'Medical Officer at Puchuncaví detention camp')], 
+'Luis Vega Contreras': [('Medical Condition', 'Lacks first molar on left upper jaw. Requires urgent dental care.')], 
+'Maximiliano Marbolz Venegas': [('Medical Condition', 'Suffering from rheumatism in coccyx region.')], 
+'Leopoldo Felipe Zuljevic Lovrin': [('Medical Condition', 'Suffering from rheumatism in upper right arm and back.')]}
+
+DOCUMENT 1:
+
+{'Manuel Contreras Sepulveda': [('Position', 'Colonel, Director of National Intelligence'), ('Info', 'Document signatory')],
+ 'Acosta Georges Julio Arturo': [('Personal Info', 'Chilean, Journalist, born 08-JAN-1946'), 
+                                  ('Political association', 'Sympathizer of the Left'), 
+                                  ('Detainment history', 'Arrested 25-SEP-1973 by police force; Released 13-FEB-1974'),
+                                  ('Travel history', 'Found on list of passengers to Mendoza on 15-MAY-1975'),
+                                  ('Activities', 'Worked as Press Secretary for Hortencia Bussi de Allende')],
+ 'Alarcon Gloria': [('Activity', 'Suspected involvement in illegal arms smuggling into country')],
+ 'Alvarado Cardenas Augusto Rene': [('Personal Info', 'Chilean, born 27-APR-1948 in Puerto Natales'),
+                                     ('Political association', 'Member of the Ex Socialist Party'),
+                                     ('Detainment history', 'Detained for political activities'), 
+                                     ('Additional info', 'Detained in the city of Rancagua and is a leader of the Socialist Party')],
+ 'Alvarez Gaete Rene Vicente': [('Personal Info', 'Chilean, Student at the University of Antofagasta, born 04-JUN-1950'), 
+                                 ('Political association', 'Member of the Ex Socialist Party'), 
+                                 ('Detainment history', 'Arrested 26-OCT-1973 for violations against Law 17.798 and internal security; Sentenced to 13 years in prison')],
+ 'Alvarez Martinez Rene Albino': [('Detainment history', 'Detained 10-MAY-1975 for violating Bando No 211 of 04-NOV-74. Transitioned to the jurisdiction of the Military Prosecutor of Victoria for traversing unhallowed mountain passes')],
+ 'Alvarez Bustos Rene Santiago': [('Personal Info', 'Chilean, Student of INACAP, born 22-JUN-1953'), 
+                                  ('Detainment history', 'Arrested 12-SET-1973 for violating the curfew; Released 23-SEP-1973')],
+ 'Ampuero Navarro Arturo': [('Personal Info', 'Chilean, Journalist, born 16-OCT-1915'), 
+                             ('Political association', 'Member of the Ex Communist Party'), 
+                             ('Detainment history', 'Arrested 11-SET-1973 for illegal possession of arms; Released unconditionally on 14-JUN-1974')],
+ 'Astaburuaga Del Solar Jose Pedro': [('Position', '1963 Candidate for councilor for the Commune of San Miguel; 1972, Chief of E.C.A. of San Bernardo'),
+                                      ('Political association', 'Member of the Ex Socialist Party'),
+                                      ('Detainment history', 'Transferred to Public Prison from National Stadium on 02-OCT-1973 for resisting the Military Forces after 11-SEP-73'),
+                                      ('Travel history', 'Denied entry to Peru for Marxist ties')],
+ 'Benavente Fernandez Francisco Tomas': [('Personal Info', 'Chilean, Journalist, born 02-MAR-1944, married to Lucía Vielma Quintana'), 
+                                         ('Political association', 'Sympathizer of Left'),
+                                         ('Detainment history', 'Detained on 17-SEP-1973 and held on Quiriquina Island; Released on 05-OCT-1973')],
+ 'Bosic Jose': [('Occupation', 'Journalist'), 
+                 ('Political association', 'Member of the Ex Socialist Party'), 
+                 ('Positions', '1975 Councilor of the Regional College of Journalists of Punta Arenas')],
+ 'Burgos Lopez Manuel Jesus': [('Personal Info', 'Chilean, born 16-APR-1950, employee of the S.N.S.'), 
+                                ('Political association', 'Sympathizer of Ex Popular Unity. Extremist'),
+                                ('Activity', 'Participated in protests, marches, and meetings of the Ex Popular Unity before 11-SEP-73 and encouraged others to do same')],
+ 'Burgos Abello Manuel': [('Personal Info', 'Chilean, born 02-OCT-1925, married')]}
+
+DOCUMENT 2:
+
+{'Jorge GONZALEZ Morales': [('Medical Information', 'Otitis Cronica Colesteatamatos'), ('Location', 'Enfermeria de la Carcel')], 
+'Heraclio UGARTE Becerra': [('Medical Information', 'Insuficiencia Cardiaca'), ('Location', 'Enfermeria de la Carcel')], 
+'Fernando SILVA Mandiola': [('Medical Information', 'Incompatibilidad Caraterial'), ('Location', 'Enfermeria de la Carcel')],
+'Dr. Yafies': [('Profession', 'Doctor'), ('Info', 'Not allowed to practice in Galeria 2'), ('Relationship', 'He attended to General Alberto Bachelet')],
+'Alberto BACHELET Martinez': [('Rank', 'General'), ('Death details', 'Died of a myocardial infarction on March 12, 1974 at 09:50')]}
+
+DOCUMENT 3:
+
+The given document doesn't seem to contain information about any specific individuals involved in human rights violations during the military dictatorship of Chile. The document mainly discusses a project resolution dealing with human rights in Chile that was approved by the United Nations' Assembly General on 24th November. However, without specific details or names mentioned, it's impossible to retrieve information about people involved in human rights violations in this context. 
+
+RESPONSE FORMAT:
+{}
+
+DOCUMENT 4:
+
+{'Gregorio BRAVO Ponce de Leon': [('Role', 'Part of the Welfare Committee in prison'), ('Responsibilities', 'Improvement of prison detention conditions, coordinating distinct works of improvements, supervising hygiene conditions, and managing a small fund destined to the most urgent improvements')], 
+'Carlos RIOS Fuentes': [('Role', 'Part of the Welfare Committee in prison'), ('Responsibilities', 'Improvement of prison detention conditions, coordinating distinct works of improvements, supervising hygiene conditions, and managing a small fund destined to the most urgent improvements')], 
+'German CALLEJAS Guerrero':[('Role', 'Part of the Welfare Committee in prison'), ('Responsibilities', 'Improvement of prison detention conditions, coordinating distinct works of improvements, supervising hygiene conditions, and managing a small fund destined to the most urgent improvements')],'Unidentified detainees': [('Experience', 'Detainees recently arrived from Tejas Verdes Field complained of mistreatment. Physical evidence of abdominal and thoracic contusions, ripped nails, broken teeth, retinal detachment were confirmed')]}
+
+

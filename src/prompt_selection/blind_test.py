@@ -1,5 +1,6 @@
 import random
 import os
+import sys
 
 
 def tournament_round(files, ranking):
@@ -45,6 +46,9 @@ def run_blind_test(dir):
              if os.path.isfile(os.path.join(dir, f))]
     files = [os.path.join(dir, f) for f in files]
 
+    print(files)
+    print(len(files))
+
     if len(files) % 2 != 0:
         print("Error: Number of files must be even.")
         exit()
@@ -53,10 +57,18 @@ def run_blind_test(dir):
     while len(files) > 1:
         files, ranking = tournament_round(files, ranking)
 
-    winner = ranking[-1]
-    os.system('mv ' + winner + ' ./selected_prompt.txt')
+    winner = files[0]
 
     print("prompts ranking:")
     while len(ranking) > 0:
         file = ranking.pop()
-        print(str(len(ranking) + 1) + '. ' + file)
+        print(str(len(ranking) + 2) + '. ' + file)
+    print("1. " + winner)
+
+
+if __name__ == '__main__':
+    args = sys.argv
+    if len(args) < 2:
+        print("Usage: python3 blind_test.py <directory>")
+        exit()
+    run_blind_test(args[1])

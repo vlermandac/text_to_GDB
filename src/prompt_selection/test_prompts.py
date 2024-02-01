@@ -81,14 +81,14 @@ def get_results(prompts_dir, results_dir, client):
     df_results = results_to_df(prompts, documents_sample, client)
     df_results.to_csv('results.csv', index=False)
 
-    file_name = "prompt_0_results.txt"
+    file_name = "prompt_1_results.txt"
     f = open(f"{results_dir}/{file_name}", 'a')
 
-    for i in range(5*8):
+    for i in range(5*len(prompts)):
         prompt_num = int(i/5)
         if (prompt_num != int((i-1)/5)):
             f.close()
-            file_name = f"prompt_{prompt_num}_results.txt"
+            file_name = f"prompt_{(prompt_num + 1)}_results.txt"
             f = open(f"{results_dir}/{file_name}", 'a')
         print(f"\nDOCUMENT {(i % 5)}:\n", file=f)
         print(df_results['result'].array[i], file=f)
